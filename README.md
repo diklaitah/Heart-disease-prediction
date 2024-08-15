@@ -7,6 +7,7 @@ The target variable is categorical and the model will be a classification model.
 ## Features
 
 age-
+
 sex-
 cp-
 trestbsp-
